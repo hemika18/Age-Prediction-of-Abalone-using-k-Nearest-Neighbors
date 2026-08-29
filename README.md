@@ -153,20 +153,6 @@ The core k-NN logic is implemented manually to understand the algorithm rather t
 
 ---
 
-##  Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/dinesh8463/Age-Predicton-of-Abalone-using-k-Nearest-Neighbors-.git
-cd Age-Predicton-of-Abalone-using-k-Nearest-Neighbors-
-```
-
-Install the required dependencies:
-
-```bash
-pip install numpy pandas matplotlib scikit-learn
-```
 
 ---
 
